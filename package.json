@@ -1,6 +1,6 @@
 {
   "name": "dns-equal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compare DNS record strings for equality",
   "main": "index.js",
   "dependencies": {},
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/watson/dns-equal/issues"
   },
-  "homepage": "https://github.com/watson/dns-equal#readme"
+  "homepage": "https://github.com/watson/dns-equal#readme",
+  "coordinates": [
+    56.010004025953165,
+    11.961870541375674
+  ]
 }
